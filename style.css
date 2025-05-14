@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+}
+
+
+.button {
+    float: right;
+    background-color: rgb(105, 105, 105);
+    border: none;
+    width: 80px;
+    height: 50px;
+    margin-right: 40px;
+    margin-bottom: 80px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.cuadro {
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    width: 600px;
+    height: 200px;
+    margin-left: 450px;
+    margin-top: 200px;
+}
